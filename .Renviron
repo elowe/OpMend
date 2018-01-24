@@ -1,0 +1,2 @@
+R_LIBS=C:\Users\erlowe\Documents\R\win-library\3.4
+R_DEFAULT_PACKAGES=setup,dplyr,car,MASS,installr,reinstallr,tidyverse,ggplot2,ISLR,lubridate,tibble,Rcpp,readxl,broom,testthat,magrittr
