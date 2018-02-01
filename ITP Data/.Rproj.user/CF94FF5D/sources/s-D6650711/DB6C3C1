@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517511306359.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "253676597",
+    "id" : "DB6C3C1",
+    "lastKnownWriteTime" : 1517511449,
+    "last_content_update" : 1517511449518,
+    "path" : "C:/Users/erlowe/github/OpMend/ITP Data/ITP_DataClean.R",
+    "project_path" : "ITP_DataClean.R",
+    "properties" : {
+        "cursorPosition" : "7,43",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
