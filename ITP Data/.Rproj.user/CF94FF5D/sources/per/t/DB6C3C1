@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "253676597",
+    "hash" : "2894496167",
     "id" : "DB6C3C1",
-    "lastKnownWriteTime" : 1517511449,
-    "last_content_update" : 1517511449518,
+    "lastKnownWriteTime" : 1517604241,
+    "last_content_update" : 1517604241258,
     "path" : "C:/Users/erlowe/github/OpMend/ITP Data/ITP_DataClean.R",
     "project_path" : "ITP_DataClean.R",
     "properties" : {
-        "cursorPosition" : "7,43",
-        "scrollLine" : "0"
+        "cursorPosition" : "31,1",
+        "scrollLine" : "2"
     },
     "relative_order" : 1,
     "source_on_save" : false,
