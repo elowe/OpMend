@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "DB6C3C1",
-    "lastKnownWriteTime" : 1517604847,
-    "last_content_update" : 1517604847,
+    "lastKnownWriteTime" : 1517943461,
+    "last_content_update" : 1517943461,
     "path" : "C:/Users/erlowe/github/OpMend/ITP Data/ITP_DataClean.R",
     "project_path" : "ITP_DataClean.R",
     "properties" : {
-        "cursorPosition" : "31,1",
-        "scrollLine" : "0"
+        "cursorPosition" : "38,37",
+        "scrollLine" : "24"
     },
     "relative_order" : 1,
     "source_on_save" : false,

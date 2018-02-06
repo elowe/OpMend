@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517935315532.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A7D4AA9D",
+    "lastKnownWriteTime" : 32088568251809794,
+    "last_content_update" : 1517935315532,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3BFA9EFA",
+        "caption" : "ITP_Pts_Screeners",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ITP_Pts_Screeners&cache_key=3BFA9EFA",
+        "displayedObservations" : "635",
+        "environment" : "",
+        "object" : "ITP_Pts_Screeners",
+        "preview" : "0",
+        "totalObservations" : "635",
+        "variables" : "218"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
