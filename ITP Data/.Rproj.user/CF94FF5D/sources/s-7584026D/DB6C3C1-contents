@@ -9,6 +9,17 @@ library(lubridate) # work with dates more easily
 library(ggplot2) # for data visualization
 library(janitor) # examine and clean "dirty" data
 
+#*******************INFORMATION*************************************************
+# Filtered_ITP is a tibble to store the filtered data subset to analyze
+# ITP_Pts_Screeners likely contains all info found in ITP_PtInfo and ITP_Scores
+# but is a custom report and is likely more complete. Will consider removing
+# redundant files.
+# Will calculate score totals and other variables as needed and will provide
+# data visualization at some point.
+#
+#
+#
+
 #*******************DATA IMPORT*************************************************
 # Data stored in subdirectory "Data Files/"
 
@@ -24,7 +35,7 @@ ITP_Pts_Screeners <- read_excel("~/ITP Data/ITP_Pts_Screeners.xlsx")
 
 
 # Filtering down database to subset of what we want, first by filtering on
-# completed screeners
+# completed screeners, stored as a tibble in Filtered_ITP
 Filtered_ITP <- dplyr::filter(ITP_Pts_Screeners, ScreenerStatus %in%
   c("Complete", "Completed"), PatientExitStatus %in% c("Complete", "Completed"))
 # Then filtering by distinct names
